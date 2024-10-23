@@ -1,5 +1,5 @@
 
-<img alt="cunet logo" style="max-width: 320px" src="./colored-cunet-logo-black.gif">
+<img alt="cunet logo" style="max-width: 320px" width="320px" src="./colored-cunet-logo-black.gif">
 
 ## Hii and welcome 👋
 
@@ -7,6 +7,6 @@
 
 🇩🇪 Tritt gerne unserem [discord server](https://discord.com/invite/GJSbyJ5Jpe) bei.
 
-<img alt="discord logo" style="max-width: 320px" src="./discord-fun-logo.png">
+<img alt="discord logo" style="max-width: 320px" width="320px" src="./discord-fun-logo.png">
 
 
