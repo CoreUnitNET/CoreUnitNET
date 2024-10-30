@@ -37,21 +37,21 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MarieUS5FT">
-    <img alt="MarieUS5FT's avatar" src="https://avatars.githubusercontent.com/u/107305603?v=4" width="180px">
-  </a>
-</p>
-<p align="center">
-   <img alt="NobleMajo follower count" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMarieUS5FT&style=for-the-badge" width="180px">
-</p>
-
-<p align="center">
   <a href="https://github.com/PhoenixRaph">
     <img alt="PhoenixRaph's avatar" src="https://avatars.githubusercontent.com/u/11281467?v=4" width="180px">
   </a>
 </p>
 <p align="center">
    <img alt="NobleMajo follower count" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FPhoenixRaph&style=for-the-badge" width="180px">
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarieUS5FT">
+    <img alt="MarieUS5FT's avatar" src="https://avatars.githubusercontent.com/u/107305603?v=4" width="180px">
+  </a>
+</p>
+<p align="center">
+   <img alt="NobleMajo follower count" src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMarieUS5FT&style=for-the-badge" width="180px">
 </p>
 
 <h3 align="center">Join us!</h3>
