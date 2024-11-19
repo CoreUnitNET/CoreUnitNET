@@ -60,9 +60,7 @@
   (maybe you need some game or web servers?)<br>
   <i>We do it ourselves just for fun and for skill development.</i><br>
   <br>
-  To apply, write a message via discord private chat or the discord server ticket system<br>
-  if you would like to contribute to the CoreUnitNet Infrastructure.<br>
-  <br>
+  <a href=""https://github.com/CoreUnit-NET/docs/blob/main/general.md>Apply here.</a>
   <br>
   We look forward to hearing from you!
 </p>
@@ -73,8 +71,4 @@
   <code>golang</code>, <code>air</code>, <code>typescript</code>, <code>bun.js</code>, <code>github-actions</code>,<br>
   own private or opensource software and<br>
   much more for game, web and service hosting!
-</p>
-
-<p align="center">
-  <a href="https://discord.com/invite/GJSbyJ5Jpe">Our Discord Server</a>.
 </p>
