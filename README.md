@@ -60,7 +60,7 @@
   (maybe you need some game or web servers?)<br>
   <i>We do it ourselves just for fun and for skill development.</i><br>
   <br>
-  <a href=""https://github.com/CoreUnit-NET/docs/blob/main/general.md>Apply here.</a>
+  <a href="https://github.com/CoreUnit-NET/docs/blob/main/general.md">Apply here.</a>
   <br>
   We look forward to hearing from you!
 </p>
