@@ -5,7 +5,7 @@
 <h1 align="center">Hii and welcome 👋</h1>
 
 <p align="center">
-  This is the <a href="https://CoreUnit.NET"> service account.<br>
+  This is the <a href="https://CoreUnit.NET">CoreUnit.NET<br> service account, used by the recruit bot.
 </p>
 
 <h3 align="center">Our Discord</h3>
